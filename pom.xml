@@ -17,6 +17,7 @@
 
 	<modules>
 		<module>mylearn-grpc-demo-server</module>
+		<module>mylearn-grpc-demo-client</module>
 	</modules>
 
 	<properties>
