@@ -1,4 +1,4 @@
-package com.example.mylearngrpcdemoserver.controller;
+package com.example.mylearngrpcdemoclient.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
